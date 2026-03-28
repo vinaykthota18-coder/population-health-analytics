@@ -1,0 +1,19 @@
+Population Health Analytics Project Summary
+
+Goal:
+Identify high-risk chronic disease patients using longitudinal healthcare data.
+
+Focus Areas:
+- Risk stratification
+- Chronic disease trend analysis
+- Preventive care planning
+- Population health insight generation
+
+Methods:
+- Data cleaning
+- Cohort-level analysis
+- Trend interpretation
+- Risk-based grouping
+
+Outcome:
+This project supported healthcare decision-making by highlighting high-risk populations and helping prioritize preventive interventions.
