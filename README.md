@@ -31,3 +31,7 @@ This project demonstrates my ability to work with healthcare data, apply analyti
 
 ## Author
 Vinay Kumar Thota
+
+## Dashboard
+
+![Dashboard](dashboard.png)
